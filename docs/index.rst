@@ -73,6 +73,7 @@ array([571401.15425298, 245666.03148525, 106637.09264631, 48652.34421856, 27643.
    :caption: Contents:
 
    modules/api
+   modules/license
 
 
 Indices and tables
