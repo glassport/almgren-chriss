@@ -12,7 +12,7 @@ keywords = ["optimal exeuction", "quantitative finance", "Almgren Chriss"]
 python = "^3.10"
 
 [tool.poetry.urls]
-"GitHub" = "https://github.com/bernardopaulsen/almngre-chriss"
+"GitHub" = "https://github.com/bernardopaulsen/almngren-chriss"
 "Documentation" = "https://bernardopaulsen.github.io/almgren-chriss/"
 
 [tool.poetry-dynamic-versioning]
