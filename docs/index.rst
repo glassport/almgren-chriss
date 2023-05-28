@@ -9,6 +9,16 @@ Welcome to almgren-chriss's documentation!
 Welcome to the documentation for the Almgren-Chriss model implementation. This package provides a set of functions for
 implementing the Almgren-Chriss model for optimal execution of portfolio transactions.
 
+Installation
+------------
+
+You can install the almgren_chriss package with **pip**:
+
+.. code-block::
+
+   pip install almgren_chriss
+
+
 What is the Almgren-Chriss Model?
 ---------------------------------
 
