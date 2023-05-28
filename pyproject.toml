@@ -10,6 +10,7 @@ keywords = ["optimal exeuction", "quantitative finance", "Almgren Chriss"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+numpy = '^1.0'
 
 [tool.poetry.urls]
 "GitHub" = "https://github.com/bernardopaulsen/almngren-chriss"
