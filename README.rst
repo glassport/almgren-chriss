@@ -47,12 +47,12 @@ Here is an example of how to use the functions in the package:
 >>> trade_trajectory(lambda_, tau, sigma, gamma, eta, X, T)
 array([1000000.0, 428598.84574702, 182932.81426177, 76295.72161546, 27643.37739691, 0.0])
 
-.. image:: assets/trade_trajectory.png
+.. image:: docs/assets/trade_trajectory.png
 
 >>> trade_list(lambda_, tau, sigma, gamma, eta, X, T)
 array([571401.15425298, 245666.03148525, 106637.09264631, 48652.34421856, 27643.37739691])
 
-.. image:: assets/trade_list.png
+.. image:: docs/assets/trade_list.png
 
 >>> cost_expectation(lambda_, tau, sigma, gamma, eta, epsilon, X, T)
 1140715.1670497851
