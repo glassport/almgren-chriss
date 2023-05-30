@@ -8,6 +8,8 @@ API
 
 .. autofunction:: almgren_chriss.cost_variance
 
+.. autofunction:: almgren_chriss.value_at_risk
+
 .. autofunction:: almgren_chriss.decay_rate
 
 .. autofunction:: almgren_chriss.trade_trajectory

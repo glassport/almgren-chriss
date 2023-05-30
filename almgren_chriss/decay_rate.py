@@ -9,24 +9,6 @@ tilde_tau
     Calculate the adjusted interval between trades.
 kappa
     Calculate the trade decay rate.
-
-Parameters
-----------
-lambda_ : float
-    Risk tolerance (lambda)
-tau : float
-    Interval between trades
-sigma : float
-    Volatility
-gamma : float
-    Permanent impact slope
-eta : float
-    Temporary impact slope
-
-Returns
--------
-float
-    The calculated value.
 """
 import math
 

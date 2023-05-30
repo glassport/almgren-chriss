@@ -7,28 +7,6 @@ trade_trajectory
     Calculate the trading trajectory.
 trade_list
     Calculate the list of trades.
-
-Parameters
-----------
-lambda_ : float
-    Risk tolerance (lambda)
-tau : float
-    Interval between trades
-sigma : float
-    Volatility
-gamma : float
-    Permanent impact slope
-eta : float
-    Temporary impact slope
-X : float
-    Total number of shares
-T : float
-    Trading duration
-
-Returns
--------
-numpy.ndarray
-    The calculated values.
 """
 import math
 
