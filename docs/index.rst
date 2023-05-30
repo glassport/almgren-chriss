@@ -34,6 +34,7 @@ The package provides the following functions:
 
 - `cost_expectation`: Calculate the expected cost of trading.
 - `cost_variance`: Calculate the variance of the cost of trading.
+- `value_at_risk`: Calculate the value-at-risk of the cost of trading.
 - `decay_rate`: Calculate the trade decay rate.
 - `trade_trajectory`: Calculate the trading trajectory.
 - `trade_list`: Calculate the list of trades.
